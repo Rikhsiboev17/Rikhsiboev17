@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rikhsiboev17
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rikhsiboev16@icloud.com
 
